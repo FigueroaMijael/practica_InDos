@@ -1,0 +1,13 @@
+{
+  "name": "practica-d0s",
+  "version": "1.0.0",
+  "description": "practica-integradora",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mijael",
+  "license": "ISC"
+}
